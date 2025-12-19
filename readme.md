@@ -9,7 +9,18 @@ git - repo create<br>
 <br>enter
 <br>git push origin main
 enter
-
+methos 2:
+folder-computer
+git init
+enter 
+git remote add <link>
+enter
+git add .
+enter
+git commit -m "msg"
+enter 
+git push origin main
+enter
 <h1>website</h1>
 1.npm install tailwindcss @tailwindcss/cli
 2.@import "tailwindcss";
@@ -29,3 +40,10 @@ enter
   }
 </code>
 <br>8.in terminal start --> npm run dev 
+method 3:
+1.git branch
+2.git branch <branchname>
+3.exmple:git branch devlopment
+4.git branch
+5.git checkout <branchname>
+6.example:git checkout devlopment
